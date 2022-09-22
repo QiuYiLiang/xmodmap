@@ -1,0 +1,28 @@
+keycode  26 =            f             F           atilde            Atilde
+keycode  27 =            p             P           oslash          Ooblique
+keycode  28 =            g             G      dead_ogonek        asciitilde
+keycode  29 =            j             J          dstroke           Dstroke
+keycode  30 =            l             L          lstroke           Lstroke
+keycode  31 =            u             U           uacute            Uacute
+keycode  32 =            y             Y       udiaeresis        Udiaeresis
+keycode  33 =    semicolon         colon       odiaeresis        Odiaeresis
+
+keycode  39 =            r             R       dead_grave        asciitilde
+keycode  40 =            s             S           ssharp        asciitilde
+keycode  41 =            t             T       dead_acute  dead_doubleacute
+keycode  42 =            d             D   dead_diaeresis        asciitilde
+keycode  44 =            n             N           ntilde            Ntilde
+keycode  45 =            e             E           eacute            Eacute
+keycode  46 =            i             I           iacute            Iacute
+keycode  47 =            o             O           oacute            Oacute
+
+keycode  57 =            k             K   dead_abovering        asciitilde
+
+clear lock
+clear control
+keycode 66 = Control_L
+add control = Control_L Control_R
+keycode  22 = backslash bar backslash bar
+keycode  51 = BackSpace BackSpace BackSpace BackSpace
+keycode  49 = Escape NoSymbol Escape
+keycode  9  = grave asciitilde grave asciitilde
